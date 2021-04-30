@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://gatsby-starter-hello-world/./src/pages/404.js"],"names":["PageNotFound"],"mappings":"wMAEe,SAASA,IACtB,OAAO","file":"component---src-pages-404-js-46903453926a2cdc9d80.js","sourcesContent":["import React from \"react\"\n\nexport default function PageNotFound() {\n  return <div>This page doesnot exist. Go back</div>\n}\n"],"sourceRoot":""}
