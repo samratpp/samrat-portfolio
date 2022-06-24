@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://samrat-portfolio/./src/pages/404.js"],"names":["PageNotFound"],"mappings":"oLAEe,SAASA,IACtB,OAAO","file":"component---src-pages-404-js-0177353437059571558e.js","sourcesContent":["import React from \"react\"\n\nexport default function PageNotFound() {\n  return <div>This page doesnot exist. Go back</div>\n}\n"],"sourceRoot":""}

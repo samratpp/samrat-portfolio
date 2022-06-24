@@ -1,0 +1,2 @@
+(self.webpackChunksamrat_portfolio=self.webpackChunksamrat_portfolio||[]).push([[426],{8711:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return u}});var n=r(7294);function u(){return n.createElement("div",null,"Hello react")}}}]);
+//# sourceMappingURL=component---src-pages-this-page-was-built-using-react-gatsby-js-f4b339608ef3b76525f5.js.map

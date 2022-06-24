@@ -1,0 +1,2 @@
+(self.webpackChunksamrat_portfolio=self.webpackChunksamrat_portfolio||[]).push([[883],{9616:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return r}});var o=n(7294);function r(){return o.createElement("div",null,"This page doesnot exist. Go back")}}}]);
+//# sourceMappingURL=component---src-pages-404-js-0177353437059571558e.js.map
